@@ -1,2 +1,2 @@
 # database
-Database API based test project created under internship educational purpose.
+Database API based test project created under internship with educational purpose.
